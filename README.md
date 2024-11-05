@@ -3,6 +3,9 @@
 # NAMA: YUSNAN ADI KUSUMA
 
 # MATA KULLIAH: PENGEMBANGAN APLIKASI MOBILE LANJUT - E
+Jalankan Perintah
+flutter pub get
+flutter run
 
 # Splash Screen
 ![splash screen2](https://github.com/user-attachments/assets/b5d7b23c-fb14-4054-8e1d-9426ff258be4)
