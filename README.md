@@ -4,7 +4,7 @@
 
 # MATA KULLIAH: PENGEMBANGAN APLIKASI MOBILE LANJUT - E
 Jalankan Perintah
-flutter pub get
+flutter pub get, lalu
 flutter run
 
 # Splash Screen
